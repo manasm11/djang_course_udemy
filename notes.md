@@ -8,3 +8,8 @@ Docker vs Vagrant
   - [ ] uses virtualbox.
   - [ ] cross platform.
   - [ ] Experiment done !!!
+  - [ ] Experiment done !!!
+  - [ ] Experiment done !!!
+  - [ ] Experiment done !!!
+  - [ ] Experiment done !!!
+  - [ ] Experiment done !!!
