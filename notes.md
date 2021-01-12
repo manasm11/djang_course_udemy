@@ -7,3 +7,4 @@ Docker vs Vagrant
   - [ ] easier for beginners.
   - [ ] uses virtualbox.
   - [ ] cross platform.
+  - [ ] Experiment done !!!
