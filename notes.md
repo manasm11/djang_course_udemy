@@ -7,4 +7,9 @@ Docker vs Vagrant
   - [ ] easier for beginners.
   - [ ] uses virtualbox.
   - [ ] cross platform.
-  - [ ] Experiment done !!!
+
+# Vagrant
+## Setting Up
+- [ ] vagrant init
+  - [ ] This creates a template to create a vagrant server.
+- [ ] 
